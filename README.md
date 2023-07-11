@@ -17,6 +17,9 @@ As a Beginner in Web Development, i managed to create a Simple Personal Portfoli
 # To Run The Project
 You can clone the repository and open it using VS Code and run.
 
+# Google Sheet API:
+The Google Sheet API for storing the form data is also provided.
+
 # Contact
 
 You can reach me out here
